@@ -1,9 +1,10 @@
 import React from 'react';
+import PriceRating from './PriceRating';
 
-const InfoOp = (props) => {
+const InfoOp = ({price}) => {
   return (
     <div className='infoOp'>
-      
+      <PriceRating price={price}/>
     </div>
   )
 }

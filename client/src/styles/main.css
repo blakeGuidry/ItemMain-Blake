@@ -118,10 +118,82 @@
   /* object-fit: cover; */
 }
 
-/* === InfoOp === */
+/* === INFO-OP === */
 
 .infoOp {
   padding-left: 32px;
+  padding-top: 12px;
   flex-basis: 25%;
   max-width: 25%;
 }
+
+/* PRICE */
+
+.priceAndRating {
+  padding-bottom: 16px;
+  display: block;
+}
+
+.price span {
+  display: inline-block;
+  line-height: 1.4285;
+  text-size-adjust: 100%;
+  font-weight: bold;
+  font-size: 23px;
+}
+
+.price img {
+  padding-right: 3px;
+  height: 21px;
+}
+
+/* RATING */
+
+.stats {
+  margin-top: 12px;
+  display: flex;
+  align-items: center;
+}
+
+.ratings {
+  margin-right: 4px;
+  text-decoration: none;
+}
+
+.stars {
+  display: inline-block;
+}
+
+.star {
+  border: 1px;
+  border-color: black;
+}
+
+.reviews {
+  margin-left: 4px;
+  vertical-align: center;
+  font-size: 12px;
+  color: rgb(102, 102, 102);
+  text-decoration-line: underline;
+}
+
+.reviews:hover {
+  text-decoration: none;
+}
+
+/* QUESTIONS */
+
+.numQuestions {
+  border-left: 1px solid rgb(214, 214, 214);
+  padding-left: 4px;
+  font-size: 12px;
+  color: rgb(102, 102, 102);
+  text-decoration-line: underline;
+}
+
+.numQuestions:hover {
+  text-decoration: none;
+  cursor: pointer;
+}
+
+/* === PURCHASE === */

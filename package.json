@@ -15,7 +15,8 @@
     "express": "^4.17.1",
     "mongoose": "^5.9.11",
     "react": "^16.13.1",
-    "react-dom": "^16.13.1"
+    "react-dom": "^16.13.1",
+    "react-star-ratings": "^2.3.0"
   },
   "devDependencies": {
     "@babel/core": "^7.1.2",
