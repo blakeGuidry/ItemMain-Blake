@@ -2,6 +2,8 @@ import React, { Component } from 'react';
 import Axios from 'axios';
 
 import Header from './header/Header';
+import Images from './images/Images';
+import InfoOp from './infoOp/InfoOP';
 
 class App extends Component {
   constructor(props) {
@@ -10,7 +12,8 @@ class App extends Component {
       id: 1,
       name: '',
       price: 0,
-      category: ''
+      category: '',
+      images: []
     };
   }
 
@@ -26,7 +29,8 @@ class App extends Component {
           id: i.id,
           name: i.name,
           price: i.price,
-          category: i.category
+          category: i.category,
+          images: i.images
         })
       })
       .catch('Error getting item from db');
@@ -36,6 +40,10 @@ class App extends Component {
     return (
       <div id='main'>
         <Header name={this.state.name} category={this.state.category}/>
+        <div className='body'>
+          <Images imgs={this.state.images}/>
+          <InfoOp price={this.state.price}/>
+        </div>
       </div>
     )
   }
