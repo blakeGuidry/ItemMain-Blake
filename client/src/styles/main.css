@@ -1,8 +1,10 @@
 #main {
   display: block;
-  width: 80%; 
-  position: relative;
-  left: 10%;
+  max-width: 1400px;
+  margin: 0px auto;
+  /* position: relative; */
+  /* width: 80%;  */
+  /* left: 10%; */
   color: rgb(51, 51, 51);
   font-family: "Helvetica for Target", HelveticaForTarget, Targetica, "HelveticaNeue for Target", "Helvetica Neue", Helvetica, Arial, sans-serif;
   text-size-adjust: 100%;
@@ -78,6 +80,7 @@
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
+  box-sizing: border-box;
 }
 
 .mainImg {
@@ -125,6 +128,7 @@
   padding-top: 12px;
   flex-basis: 25%;
   max-width: 25%;
+  box-sizing: border-box;
 }
 
 /* PRICE */
@@ -197,3 +201,101 @@
 }
 
 /* === PURCHASE === */
+
+.purchase {
+  padding: 12px 16px 0px;
+  flex-basis: 25%;
+  max-width: 25%;
+  box-sizing: border-box;
+}
+
+.buyOptions {
+  display: block;
+  position: relative;
+  width: auto;
+  height: auto;
+  border-radius: 4px;
+}
+
+.store {
+  margin-bottom: 12px;
+  padding: 12px 16px;
+  background: rgb(247, 247, 247);
+}
+
+.pickup {
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  text-align: left;
+}
+
+.storeInfo {
+  padding-right: 4px;
+  flex-basis: 100%;
+  max-width: 100%;
+  box-sizing: border-box;
+  font-size: 16px;
+}
+
+.status {
+  font-weight: bold;
+  color: rgb(0, 102, 1);
+}
+
+.atStore {
+  font-weight: bold;
+  text-decoration-line: underline;
+}
+
+.editStore {
+  margin-bottom: 12px;
+}
+
+.editStore span {
+  font-size: 12px;
+  text-decoration-line: underline;
+  cursor: pointer;
+  color: rgb(51, 51, 51);
+}
+
+.stock {
+  margin-bottom: 4px;
+  color: rgb(184, 83, 0);
+  font-size: 14px;
+}
+
+.pick-it-up {
+  margin: 4px 0px;
+  flex-basis: 58.3333%;
+  max-width: 58.3333%;
+}
+
+.pick-it-up-button {
+  font-size: 15px;
+  width: 100%;
+  position: relative;
+  text-align: center;
+  vertical-align: middle;
+  color: rgb(255, 255, 255);
+  background-color: rgb(204, 0, 0);
+  border-width: 1px;
+  border-style: solid;
+  padding: 6px 12px;
+  border-radius: 4px;
+  border-color: rgb(204, 0, 0);
+  cursor: pointer;
+}
+
+.pick-it-up-button:hover {
+  background-color: rgb(180, 0, 0);
+}
+
+.order-pickup {
+  font-size: 14px;
+}
+
+.order-pickup span {
+  color: rgb(0, 102, 1);
+}

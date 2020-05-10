@@ -4,6 +4,7 @@ import Axios from 'axios';
 import Header from './header/Header';
 import Images from './images/Images';
 import InfoOp from './infoOp/InfoOP';
+import Purchase from './purchase/Purchase';
 
 class App extends Component {
   constructor(props) {
@@ -43,6 +44,7 @@ class App extends Component {
         <div className='body'>
           <Images imgs={this.state.images}/>
           <InfoOp price={this.state.price}/>
+          <Purchase />
         </div>
       </div>
     )
