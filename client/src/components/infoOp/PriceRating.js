@@ -8,7 +8,7 @@ const PriceRating = ({price}) => {
       <Price price={price}/>
       <div className='stats'>
         <Rating />
-        <span className='numQuestions' href='#'>3 Questions</span>
+        <span className='numQuestions'><a href='#qa-tab'>3 Questions</a></span>
       </div> 
     </div>
   )

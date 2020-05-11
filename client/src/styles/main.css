@@ -191,14 +191,31 @@
   border-left: 1px solid rgb(214, 214, 214);
   padding-left: 4px;
   font-size: 12px;
+}
+
+.numQuestions a {
   color: rgb(102, 102, 102);
   text-decoration-line: underline;
 }
 
-.numQuestions:hover {
+.numQuestions a:hover {
   text-decoration: none;
   cursor: pointer;
 }
+
+/* QUANTITY */
+
+.quantity {
+  padding-bottom: 12px;
+  display: block;
+}
+
+.drop-down-container {
+  width: 100px;
+  position: relative;
+}
+
+
 
 /* === PURCHASE === */
 
