@@ -1,0 +1,6 @@
+.gitignore
+node_modules
+webpack.config.js
+server/database/data.json
+client/src
+README.md

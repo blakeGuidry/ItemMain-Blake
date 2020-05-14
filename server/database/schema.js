@@ -1,5 +1,6 @@
 const mongoose = require('mongoose');
-mongoose.connect('mongodb://localhost/targaryen')
+const db = require('./config.js')
+mongoose.connect(db.uri, {useNewUrlParser: true})
   .then(() => {
     console.log('Database connection successful')
   })
@@ -12,6 +13,7 @@ let ItemMainSchema = mongoose.Schema({
   name: { type: String, required: true },
   price: { type: Number, required: true },
   category: { type: String, required: true },
+  images: { type: Array, required: true }
 });
 
 const ItemMain = mongoose.model('ItemMain', ItemMainSchema);

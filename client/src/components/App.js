@@ -23,7 +23,7 @@ class App extends Component {
   }
 
   getMain() {
-    Axios.get(`http://localhost:8008/${this.state.id}`)
+    Axios.get(`http://item-main-env.eba-sfsa5uyc.us-east-2.elasticbeanstalk.com/${this.state.id}`)
       .then(item => {
         const i = item.data[0];
         this.setState({
