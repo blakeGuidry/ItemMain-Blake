@@ -19,11 +19,18 @@ class App extends Component {
   }
 
   componentDidMount() {
-    this.getMain();
+    this.getMain(1);
+
+    const search = document.getElementById('searchInputForm');
+    if (search) {
+      search.addEventListener('submit', () => {
+        this.getMain(search.name);
+      })
+    }
   }
 
-  getMain() {
-    Axios.get(`http://item-main-env.eba-sfsa5uyc.us-east-2.elasticbeanstalk.com/${this.state.id}`)
+  getMain(id) {
+    Axios.get(`http://localhost:8008/${id}`)
       .then(item => {
         const i = item.data[0];
         this.setState({
