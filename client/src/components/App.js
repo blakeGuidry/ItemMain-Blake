@@ -15,7 +15,8 @@ class App extends Component {
       price: 0,
       category: '',
       images: [],
-      reviews: 0
+      reviews: 0,
+      questions: 0
     };
   }
 
@@ -31,6 +32,10 @@ class App extends Component {
 
     document.addEventListener('reviews', e => {
       this.setState({reviews: e.detail})
+    })
+
+    document.addEventListener('questions', e => {
+      this.setState({questions: e.detail})
     })
   }
 
@@ -55,7 +60,7 @@ class App extends Component {
         <Header name={this.state.name} category={this.state.category}/>
         <div className='body'>
           <Images imgs={this.state.images}/>
-          <InfoOp price={this.state.price} reviews={this.state.reviews}/>
+          <InfoOp price={this.state.price} reviews={this.state.reviews} questions={this.state.questions}/>
           <Purchase />
         </div>
       </div>
