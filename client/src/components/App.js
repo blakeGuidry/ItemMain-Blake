@@ -37,6 +37,10 @@ class App extends Component {
         rating: e.detail.rating
       })
     })
+
+    document.addEventListener('questions', e => {
+      this.setState({questions: e.detail})
+    })
   }
 
   getMain(id) {
