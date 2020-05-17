@@ -4,10 +4,7 @@ import StarRating from 'react-star-ratings';
 class Rating extends React.Component {
   constructor(props) {
     super(props);
-    this.state = {
-      rating: 4.5,
-      reviews: 313
-    }
+    this.state = {}
   }
 
   render() {
@@ -16,7 +13,7 @@ class Rating extends React.Component {
         <div className='stars'>
           <StarRating 
             totalStars={5} 
-            rating={this.state.rating} 
+            rating={this.props.rating} 
             starRatedColor={'gold'}
             starSpacing={'0px'}
             starDimension={'20px'}
