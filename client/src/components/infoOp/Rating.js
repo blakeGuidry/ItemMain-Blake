@@ -12,7 +12,7 @@ class Rating extends React.Component {
 
   render() {
     return (
-      <a className='ratings' href='#'>
+      <a className='ratings' href='#reviews'>
         <div className='stars'>
           <StarRating 
             totalStars={5} 
@@ -22,7 +22,7 @@ class Rating extends React.Component {
             starDimension={'20px'}
           />
         </div>
-        <span className='reviews'>{this.state.reviews}</span>
+        <span className='reviews'>{this.props.reviews}</span>
       </a>
     )
   }

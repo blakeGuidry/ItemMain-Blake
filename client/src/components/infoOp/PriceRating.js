@@ -2,12 +2,12 @@ import React from 'react';
 import Price from './Price';
 import Rating from './Rating';
 
-const PriceRating = ({price}) => {
+const PriceRating = ({price, reviews}) => {
   return (
     <div className='priceAndRating'>
       <Price price={price}/>
       <div className='stats'>
-        <Rating />
+        <Rating reviews={reviews}/>
         <span className='numQuestions'><a href='#qa-tab'>3 Questions</a></span>
       </div> 
     </div>

@@ -2,10 +2,10 @@ import React from 'react';
 import PriceRating from './PriceRating';
 import Quantity from './Quantity';
 
-const InfoOp = ({price}) => {
+const InfoOp = ({price, reviews}) => {
   return (
     <div className='infoOp'>
-      <PriceRating price={price}/>
+      <PriceRating price={price} reviews={reviews}/>
       <Quantity />
     </div>
   )

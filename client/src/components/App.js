@@ -14,7 +14,8 @@ class App extends Component {
       name: '',
       price: 0,
       category: '',
-      images: []
+      images: [],
+      reviews: 0
     };
   }
 
@@ -27,6 +28,10 @@ class App extends Component {
         this.getMain(search.name);
       })
     }
+
+    document.addEventListener('reviews', e => {
+      this.setState({reviews: e.detail})
+    })
   }
 
   getMain(id) {
@@ -50,7 +55,7 @@ class App extends Component {
         <Header name={this.state.name} category={this.state.category}/>
         <div className='body'>
           <Images imgs={this.state.images}/>
-          <InfoOp price={this.state.price}/>
+          <InfoOp price={this.state.price} reviews={this.state.reviews}/>
           <Purchase />
         </div>
       </div>
