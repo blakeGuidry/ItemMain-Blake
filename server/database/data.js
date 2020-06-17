@@ -5,11 +5,11 @@ module.exports = [
     price: 389.99,
     category: 'Weapons',
     images: [
-      "https://targaryen-store.s3.us-east-2.amazonaws.com/1-Oathkeeper1.jpg",
-      "https://targaryen-store.s3.us-east-2.amazonaws.com/1-Oathkeeper2.jpg",
-      "https://targaryen-store.s3.us-east-2.amazonaws.com/1-Oathkeeper3.jpg",
-      "https://targaryen-store.s3.us-east-2.amazonaws.com/1-Oathkeeper4.jpg",
-      "https://targaryen-store.s3.us-east-2.amazonaws.com/1-Oathkeeper5.jpg"
+      "https://i.ibb.co/MBzhFXx/1-Oathkeeper1.jpg",
+      "https://i.ibb.co/Ld4KVX5/1-Oathkeeper2.jpg",
+      "https://i.ibb.co/rv9S1r8/1-Oathkeeper3.jpg",
+      "https://i.ibb.co/y4WZcjz/1-Oathkeeper4.jpg",
+      "https://i.ibb.co/4dFhZjW/1-Oathkeeper5.jpg"
     ]
   },
   {
@@ -18,11 +18,11 @@ module.exports = [
     price: 124.99,
     category: 'Home Goods',
     images: [
-      "https://targaryen-store.s3.us-east-2.amazonaws.com/2-DragonEggBox1.jpg",
-      "https://targaryen-store.s3.us-east-2.amazonaws.com/2-DragonEggBox2.jpg",
-      "https://targaryen-store.s3.us-east-2.amazonaws.com/2-DragonEggBox3.jpg",
-      "https://targaryen-store.s3.us-east-2.amazonaws.com/2-DragonEggBox4.jpg",
-      "https://targaryen-store.s3.us-east-2.amazonaws.com/2-DragonEggBox5.jpg"
+      "https://i.ibb.co/vJsDMpx/2-Dragon-Egg-Box1.jpg",
+      "https://i.ibb.co/hV5PsmQ/2-Dragon-Egg-Box2.jpg",
+      "https://i.ibb.co/LPn46ZT/2-Dragon-Egg-Box3.jpg",
+      "https://i.ibb.co/pK1DKpy/2-Dragon-Egg-Box4.jpg",
+      "https://i.ibb.co/hmjFR5j/2-Dragon-Egg-Box5.jpg"
     ]
   },
   {
@@ -31,11 +31,11 @@ module.exports = [
     price: 699.99,
     category: 'Armor',
     images: [
-      'https://targaryen-store.s3.us-east-2.amazonaws.com/3-StarkShield1.jpg',
-      'https://targaryen-store.s3.us-east-2.amazonaws.com/3-StarkShield2.jpg',
-      'https://targaryen-store.s3.us-east-2.amazonaws.com/3-StarkShield3.jpg',
-      'https://targaryen-store.s3.us-east-2.amazonaws.com/3-StarkShield4.jpg',
-      'https://targaryen-store.s3.us-east-2.amazonaws.com/3-StarkShield5.jpg',
+      'https://i.ibb.co/cvgk08g/3-Stark-Shield1.jpg',
+      'https://i.ibb.co/Chtgcbr/3-Stark-Shield2.jpg',
+      'https://i.ibb.co/x5fhDpT/3-Stark-Shield3.jpg',
+      'https://i.ibb.co/dktVQGq/3-Stark-Shield4.jpg',
+      'https://i.ibb.co/LPq8LS4/3-Stark-Shield5.jpg',
     ]
   },
   {
@@ -44,11 +44,11 @@ module.exports = [
     price: 69.99,
     category: 'Kitchen & Dining',
     images: [
-      "https://targaryen-store.s3.us-east-2.amazonaws.com/4-SigilTankard1.jpg",
-      "https://targaryen-store.s3.us-east-2.amazonaws.com/4-SigilTankard2.jpg",
-      "https://targaryen-store.s3.us-east-2.amazonaws.com/4-SigilTankard3.jpg",
-      "https://targaryen-store.s3.us-east-2.amazonaws.com/4-SigilTankard4.jpg",
-      "https://targaryen-store.s3.us-east-2.amazonaws.com/4-SigilTankard5.jpg"
+      "https://i.ibb.co/pxtz258/4-Sigil-Tankard1.jpg",
+      "https://i.ibb.co/4FV608X/4-Sigil-Tankard2.jpg",
+      "https://i.ibb.co/ydDGNR3/4-Sigil-Tankard3.jpg",
+      "https://i.ibb.co/C6ywkBZ/4-Sigil-Tankard4.jpg",
+      "https://i.ibb.co/ZfdThQq/4-Sigil-Tankard5.jpg"
     ]
   },
   {
@@ -57,11 +57,11 @@ module.exports = [
     price: 27.99,
     category: 'Office Supplies',
     images: [
-      "https://targaryen-store.s3.us-east-2.amazonaws.com/5-TargaryenStationaryKit1.jpg",
-      "https://targaryen-store.s3.us-east-2.amazonaws.com/5-TargaryenStationaryKit2.jpg",
-      "https://targaryen-store.s3.us-east-2.amazonaws.com/5-TargaryenStationaryKit3.jpg",
-      "https://targaryen-store.s3.us-east-2.amazonaws.com/5-TargaryenStationaryKit4.jpg",
-      "https://targaryen-store.s3.us-east-2.amazonaws.com/5-TargaryenStationaryKit5.jpg"
+      "https://i.ibb.co/cY1SGBm/5-Targaryen-Stationary-Kit1.jpg",
+      "https://i.ibb.co/vzCx6Y1/5-Targaryen-Stationary-Kit2.jpg",
+      "https://i.ibb.co/4TRFdT5/5-Targaryen-Stationary-Kit3.jpg",
+      "https://i.ibb.co/VVwxrz6/5-Targaryen-Stationary-Kit4.jpg",
+      "https://i.ibb.co/dpN120S/5-Targaryen-Stationary-Kit5.jpg"
     ]
   },
   {
@@ -70,9 +70,9 @@ module.exports = [
     price: 5.99,
     category: 'Home Goods',
     images: [
-      'https://targaryen-store.s3.us-east-2.amazonaws.com/6-DoorStop1.jpg',
-      'https://targaryen-store.s3.us-east-2.amazonaws.com/6-DoorStop2.jpg',
-      "https://targaryen-store.s3.us-east-2.amazonaws.com/6-DoorStop3.jpg"
+      'https://i.ibb.co/hH9fQjs/6-Door-Stop1.jpg',
+      'https://i.ibb.co/T22HMY0/6-Door-Stop2.jpg',
+      "https://i.ibb.co/myqgCDg/6-Door-Stop3.jpg"
     ]
   },
   {
@@ -81,10 +81,10 @@ module.exports = [
     price: 285.99,
     category: 'Weapons',
     images: [
-      "https://targaryen-store.s3.us-east-2.amazonaws.com/7-Needle1.jpg",
-      "https://targaryen-store.s3.us-east-2.amazonaws.com/7-Needle2.jpg",
-      "https://targaryen-store.s3.us-east-2.amazonaws.com/7-Needle3.jpg",
-      "https://targaryen-store.s3.us-east-2.amazonaws.com/7-Needle4.jpg"
+      "https://i.ibb.co/xmvbmMz/7-Needle1.jpg",
+      "https://i.ibb.co/f2BGFzn/7-Needle2.jpg",
+      "https://i.ibb.co/M6PTR6V/7-Needle3.jpg",
+      "https://i.ibb.co/cvHWGRV/7-Needle4.jpg"
     ]
   },
   {
@@ -93,9 +93,9 @@ module.exports = [
     price: 65.99,
     category: 'Kitchen & Dining',
     images: [
-      "https://targaryen-store.s3.us-east-2.amazonaws.com/8-TargaryenGoblet1.jpg",
-      "https://targaryen-store.s3.us-east-2.amazonaws.com/8-TargaryenGoblet2.jpg",
-      "https://targaryen-store.s3.us-east-2.amazonaws.com/8-TargaryenGoblet3.jpg"
+      "https://i.ibb.co/yNp9yQT/8-Targaryen-Goblet1.jpg",
+      "https://i.ibb.co/S098qCd/8-Targaryen-Goblet2.jpg",
+      "https://i.ibb.co/N1ThX9c/8-Targaryen-Goblet3.jpg"
     ]
   },
   {
@@ -104,9 +104,9 @@ module.exports = [
     price: 50.99,
     category: 'Apparel',
     images: [
-      "https://targaryen-store.s3.us-east-2.amazonaws.com/9-NightKingMask1.jpg",
-      "https://targaryen-store.s3.us-east-2.amazonaws.com/9-NightKingMask2.jpg",
-      "https://targaryen-store.s3.us-east-2.amazonaws.com/9-NightKingMask3.jpg"
+      "https://i.ibb.co/tP3w5gX/9-Night-King-Mask1.jpg",
+      "https://i.ibb.co/XycrgsR/9-Night-King-Mask2.jpg",
+      "https://i.ibb.co/Qk1D3X0/9-Night-King-Mask3.jpg"
     ]
   },
   {
@@ -115,8 +115,8 @@ module.exports = [
     price: 50.99,
     category: 'Kitchen & Dining',
     images: [
-      "https://targaryen-store.s3.us-east-2.amazonaws.com/10-DragonstoneStein1.jpg",
-      "https://targaryen-store.s3.us-east-2.amazonaws.com/10-DragonstoneStein2.jpg"
+      "https://i.ibb.co/s5Q0wqN/10-Dragonstone-Stein1.jpg",
+      "https://i.ibb.co/09J0NWg/10-Dragonstone-Stein2.jpg"
     ]
   },
   {
@@ -125,7 +125,7 @@ module.exports = [
     price: 40.99,
     category: 'Home Goods',
     images: [
-      "https://targaryen-store.s3.us-east-2.amazonaws.com/11-SigilTapestryPillow.jpg"
+      "https://i.ibb.co/3W6Cjb2/11-Sigil-Tapestry-Pillow.jpg"
     ]
   },
   {
@@ -134,7 +134,7 @@ module.exports = [
     price: 15.99,
     category: 'Apparel',
     images: [
-      "https://targaryen-store.s3.us-east-2.amazonaws.com/12-MotherOfDragonsSocks.jpg"
+      "https://i.ibb.co/tBnpP74/12-Mother-Of-Dragons-Socks.jpg"
     ]
   },
   {
@@ -143,7 +143,7 @@ module.exports = [
     price: 12.99,
     category: 'Home Goods',
     images: [
-      "https://targaryen-store.s3.us-east-2.amazonaws.com/13-GreenDragonEgg.jpg"
+      "https://i.ibb.co/3hg1DQN/13-Green-Dragon-Egg.jpg"
     ]
   },
   {
@@ -152,7 +152,7 @@ module.exports = [
     price: 40.99,
     category: 'Kitchen & Dining',
     images: [
-      "https://targaryen-store.s3.us-east-2.amazonaws.com/14-DragonclawGoblet.jpg"
+      "https://i.ibb.co/qC849jp/14-Dragonclaw-Goblet.jpg"
     ]
   },
   {
@@ -161,7 +161,7 @@ module.exports = [
     price: 85.99,
     category: 'Home Goods',
     images: [
-      "https://targaryen-store.s3.us-east-2.amazonaws.com/15-StarkWallPlaque.jpg"
+      "https://i.ibb.co/YPQYYnk/15-Stark-Wall-Plaque.jpg"
     ]
   },
   {
@@ -170,7 +170,7 @@ module.exports = [
     price: 25.99,
     category: 'Jewelry',
     images: [
-      "https://targaryen-store.s3.us-east-2.amazonaws.com/16-TargaryenSigilRing.jpg"
+      "https://i.ibb.co/Twq4TWx/16-Targaryen-Sigil-Ring.jpg"
     ]
   },
   {
@@ -179,7 +179,7 @@ module.exports = [
     price: 123.99,
     category: 'Jewelry',
     images: [
-      "https://targaryen-store.s3.us-east-2.amazonaws.com/17-TargaryenEarrings.jpg"
+      "https://i.ibb.co/3h45NHR/17-Targaryen-Earrings.jpg"
     ]
   },
   {
@@ -188,7 +188,7 @@ module.exports = [
     price: 198.99,
     category: 'Armor',
     images: [
-      "https://targaryen-store.s3.us-east-2.amazonaws.com/18-HoundHelmet.jpg"
+      "https://i.ibb.co/SxrksKh/18-Hound-Helmet.jpg"
     ]
   },
   {
@@ -197,16 +197,16 @@ module.exports = [
     price: 2.99,
     category: 'Jewelry',
     images: [
-      "https://targaryen-store.s3.us-east-2.amazonaws.com/19-HandOfKingPin.jpg"
+      "https://i.ibb.co/S5t8zkw/19-Hand-Of-King-Pin.jpg"
     ]
   },
   {
     id: 20,
-    name: 'Drogon Dragon Sculpt',
+    name: 'Drogon Dragon Sculpture',
     price: 47.99,
     category: 'Home Goods',
     images: [
-      "https://targaryen-store.s3.us-east-2.amazonaws.com/20-DrogonSculpture.jpg"
+      "https://i.ibb.co/ysZw9KQ/20-Drogon-Sculpture.jpg"
     ]
   },
   {
@@ -215,8 +215,8 @@ module.exports = [
     price: 75.99,
     category: 'Kitchen & Dining',
     images: [
-      "https://targaryen-store.s3.us-east-2.amazonaws.com/21-TargaryenTankard1.jpg",
-      "https://targaryen-store.s3.us-east-2.amazonaws.com/21-TargaryenTankard2.jpg"
+      "https://i.ibb.co/GFVK4bx/21-Targaryen-Tankard1.jpg",
+      "https://i.ibb.co/vzrS62B/21-Targaryen-Tankard2.jpg"
     ]
   },
   {
@@ -225,7 +225,7 @@ module.exports = [
     price: 59.99,
     category: 'Jewelry',
     images: [
-      "https://targaryen-store.s3.us-east-2.amazonaws.com/22-TargaryenSignetRing.jpg"
+      "https://i.ibb.co/JpS2Q20/22-Targaryen-Signet-Ring.jpg"
     ]
   },
   {
@@ -234,7 +234,7 @@ module.exports = [
     price: 89.99,
     category: 'Jewelry',
     images: [
-      "https://targaryen-store.s3.us-east-2.amazonaws.com/23-TargaryenPendant.jpg"
+      "https://i.ibb.co/4JQj9vY/23-Targaryen-Pendant.jpg"
     ]
   },
   {
@@ -243,7 +243,7 @@ module.exports = [
     price: 69.99,
     category: 'Home Goods',
     images: [
-      "https://targaryen-store.s3.us-east-2.amazonaws.com/24-WesterosBlanket.jpg"
+      "https://i.ibb.co/qmRXGCg/24-Westeros-Blanket.jpg"
     ]
   },
   {
@@ -252,16 +252,8 @@ module.exports = [
     price: 125.99,
     category: 'Home Goods',
     images: [
-      "https://targaryen-store.s3.us-east-2.amazonaws.com/25-DragonstoneGateBookends1.jpg"
-    ]
-  },
-  {
-    id: 26,
-    name: 'Generic Undead Bear',
-    price: 432.99,
-    category: 'Critters',
-    images: [
-      "https://targaryen-store.s3.us-east-2.amazonaws.com/26-UndeadBear.png"
+      "https://i.ibb.co/QnPyr3d/25-Dragonstone-Gate-Bookends1.jpg",
+      'https://i.ibb.co/sRK8RHc/25-Dragonstone-Gate-Bookends2.jpg'
     ]
   },
   {
@@ -270,7 +262,7 @@ module.exports = [
     price: 3.99,
     category: 'Kitchen & Dining',
     images: [
-      "https://targaryen-store.s3.us-east-2.amazonaws.com/27-LanisterBottleOpener.jpg"
+      "https://i.ibb.co/tbkQZ2Q/27-Lanister-Bottle-Opener.jpg"
     ]
   },
   {
@@ -279,7 +271,7 @@ module.exports = [
     price: 17.99,
     category: 'Apparel',
     images: [
-      "https://targaryen-store.s3.us-east-2.amazonaws.com/28-TackySweater.png"
+      "https://i.ibb.co/bvsZjRy/28-Tacky-Sweater.png"
     ]
   },
   {
@@ -288,7 +280,7 @@ module.exports = [
     price: 129.99,
     category: 'Apparel',
     images: [
-      "https://targaryen-store.s3.us-east-2.amazonaws.com/29-MountainArmor.jpg"
+      "https://i.ibb.co/pnsrHqz/29-Mountain-Armor.jpg"
     ]
   },
   {
@@ -297,7 +289,7 @@ module.exports = [
     price: 39.99,
     category: 'Apparel',
     images: [
-      "https://targaryen-store.s3.us-east-2.amazonaws.com/30-LeatherBoots.jpg"
+      "https://i.ibb.co/3NptG6s/30-Leather-Boots.jpg"
     ]
   },
   {
@@ -306,7 +298,7 @@ module.exports = [
     price: 119.99,
     category: 'Apparel',
     images: [
-      "https://targaryen-store.s3.us-east-2.amazonaws.com/31-IronBoots.png"
+      "https://i.ibb.co/0CDkdSc/31-Iron-Boots.png"
     ]
   },
   {
@@ -315,7 +307,7 @@ module.exports = [
     price: 479.99,
     category: 'Apparel',
     images: [
-      "https://targaryen-store.s3.us-east-2.amazonaws.com/32-GoldBoots.jpg"
+      "https://i.ibb.co/gj3Jv8b/32-Gold-Boots.jpg"
     ]
   },
   {
@@ -324,7 +316,7 @@ module.exports = [
     price: 119.99,
     category: 'Apparel',
     images: [
-      "https://targaryen-store.s3.us-east-2.amazonaws.com/33-ElegantCloak.jpg"
+      "https://i.ibb.co/mqBqJzB/33-Elegant-Cloak.jpg"
     ]
   },
   {
@@ -333,7 +325,7 @@ module.exports = [
     price: 69.99,
     category: 'Apparel',
     images: [
-      "https://targaryen-store.s3.us-east-2.amazonaws.com/34-NightsWatchCloak.jpg"
+      "https://i.ibb.co/L9G6nVP/34-Nights-Watch-Cloak.jpg"
     ]
   },
   {
@@ -342,7 +334,7 @@ module.exports = [
     price: 48.99,
     category: 'Apparel',
     images: [
-      "https://targaryen-store.s3.us-east-2.amazonaws.com/35-WolfPeltCoat.jpg"
+      "https://i.ibb.co/9VnQGHC/35-Wolf-Pelt-Coat.jpg"
     ]
   },
   {
@@ -351,16 +343,7 @@ module.exports = [
     price: 27.99,
     category: 'Apparel',
     images: [
-      "https://targaryen-store.s3.us-east-2.amazonaws.com/36-HomespunSkirt.jpg"
-    ]
-  },
-  {
-    id: 37,
-    name: 'White Undershirt',
-    price: 9.99,
-    category: 'Apparel',
-    images: [
-      "https://targaryen-store.s3.us-east-2.amazonaws.com/37-WhiteUndershirt.jpg"
+      "https://i.ibb.co/Z1XLCtj/36-Homespun-Skirt.jpg"
     ]
   },
   {
@@ -369,7 +352,7 @@ module.exports = [
     price: 9.99,
     category: 'Apparel',
     images: [
-      "https://targaryen-store.s3.us-east-2.amazonaws.com/38-PointedHelmet.jpg"
+      "https://i.ibb.co/FmJV6h3/38-Pointed-Helmet.jpg"
     ]
   },
   {
@@ -378,7 +361,7 @@ module.exports = [
     price: 9.99,
     category: 'Apparel',
     images: [
-      "https://targaryen-store.s3.us-east-2.amazonaws.com/39-DothrakiPants.jpg"
+      "https://i.ibb.co/cg3qJKr/39-Dothraki-Pants.jpg"
     ]
   },
   {
@@ -387,7 +370,7 @@ module.exports = [
     price: 1999.99,
     category: 'Apparel',
     images: [
-      "https://targaryen-store.s3.us-east-2.amazonaws.com/40-GoldCrown.jpg"
+      "https://i.ibb.co/QN9b8gM/40-Gold-Crown.jpg"
     ]
   },
   {
@@ -396,16 +379,7 @@ module.exports = [
     price: 34.99,
     category: 'Apparel',
     images: [
-      "https://targaryen-store.s3.us-east-2.amazonaws.com/41-AuthenticWornSandals.jpg"
-    ]
-  },
-  {
-    id: 42,
-    name: 'Potato Sack',
-    price: 9.99,
-    category: 'Apparel',
-    images: [
-      "https://targaryen-store.s3.us-east-2.amazonaws.com/42-PotatoSack.jpg"
+      "https://i.ibb.co/jrPpScf/41-Authentic-Worn-Sandals.jpg"
     ]
   },
   {
@@ -414,7 +388,7 @@ module.exports = [
     price: 459.99,
     category: 'Apparel',
     images: [
-      "https://targaryen-store.s3.us-east-2.amazonaws.com/43-LannisterPlate.jpg"
+      "https://i.ibb.co/CVfbwXf/43-Lannister-Plate.jpg"
     ]
   },
   {
@@ -423,7 +397,7 @@ module.exports = [
     price: 50.99,
     category: 'Apparel',
     images: [
-      "https://targaryen-store.s3.us-east-2.amazonaws.com/44-ArchmaesterCloak.jpg"
+      "https://i.ibb.co/4M2550M/44-Archmaester-Cloak.jpg"
     ]
   },
   {
@@ -432,7 +406,7 @@ module.exports = [
     price: 79.99,
     category: 'Apparel',
     images: [
-      "https://targaryen-store.s3.us-east-2.amazonaws.com/45-CloakOfShadows.jpg"
+      "https://i.ibb.co/jZBj09k/45-Cloak-Of-Shadows.jpg"
     ]
   },
   {
@@ -441,7 +415,7 @@ module.exports = [
     price: 5.99,
     category: 'Apparel',
     images: [
-      "https://targaryen-store.s3.us-east-2.amazonaws.com/46-FestivalMask.JPG"
+      "https://i.ibb.co/vqrkrZ9/46-Festival-Mask.jpg"
     ]
   },
   {
@@ -450,7 +424,7 @@ module.exports = [
     price: 87.99,
     category: 'Apparel',
     images: [
-      "https://targaryen-store.s3.us-east-2.amazonaws.com/47-ChainmailPants.jpg"
+      "https://i.ibb.co/tBnK78T/47-Chainmail-Pants.jpg"
     ]
   },
   {
@@ -459,7 +433,7 @@ module.exports = [
     price: 24.99,
     category: 'Apparel',
     images: [
-      "https://targaryen-store.s3.us-east-2.amazonaws.com/48-DragonBoneBelt.jpg"
+      "https://i.ibb.co/T0FDYng/48-Dragon-Bone-Belt.jpg"
     ]
   },
   {
@@ -468,7 +442,7 @@ module.exports = [
     price: 37.99,
     category: 'Apparel',
     images: [
-      "https://targaryen-store.s3.us-east-2.amazonaws.com/49-SummerDress.jpg"
+      "https://i.ibb.co/KxGH0Jt/49-Summer-Dress.jpg"
     ]
   },
   {
@@ -477,8 +451,8 @@ module.exports = [
     price: 2871.99,
     category: 'Mounts',
     images: [
-      "https://targaryen-store.s3.us-east-2.amazonaws.com/50-Dragon1.jpg",
-      "https://targaryen-store.s3.us-east-2.amazonaws.com/50-Dragon2.jpg"
+      "https://i.ibb.co/CHZR8qZ/50-Dragon1.jpg",
+      "https://i.ibb.co/KVyKgV3/50-Dragon2.png"
     ]
   },
   {
@@ -487,7 +461,7 @@ module.exports = [
     price: 483.99,
     category: 'Mounts',
     images: [
-      "https://targaryen-store.s3.us-east-2.amazonaws.com/51-Hodor.jpg"
+      "https://i.ibb.co/mzqtFcR/51-Hodor.jpg"
     ]
   },
   {
@@ -496,8 +470,8 @@ module.exports = [
     price: 398.99,
     category: 'Mounts',
     images: [
-      "https://targaryen-store.s3.us-east-2.amazonaws.com/52-Horse1.jpg",
-      "https://targaryen-store.s3.us-east-2.amazonaws.com/52-Horse1.jpg"
+      "https://i.ibb.co/9qT2LsJ/52-Horse1.jpg",
+      "https://i.ibb.co/SJX1zMG/52-Horse2.jpg"
     ]
   },
   {
@@ -506,7 +480,7 @@ module.exports = [
     price: 746.99,
     category: 'Mounts',
     images: [
-      "https://targaryen-store.s3.us-east-2.amazonaws.com/53-Mammoth.jpg"
+      "https://i.ibb.co/M9mrd1B/53-Mammoth.jpg"
     ]
   },
   {
@@ -515,7 +489,7 @@ module.exports = [
     price: 789.99,
     category: 'Mounts',
     images: [
-      "https://targaryen-store.s3.us-east-2.amazonaws.com/54-Elephant.png"
+      "https://i.ibb.co/LP8vZ9P/54-Elephant.png"
     ]
   },
   {
@@ -524,7 +498,7 @@ module.exports = [
     price: 54.99,
     category: 'Food & Drink',
     images: [
-      "https://targaryen-store.s3.us-east-2.amazonaws.com/55-StallionHeart.jpg"
+      "https://i.ibb.co/K9ksSLh/55-Stallion-Heart.jpg"
     ]
   },
   {
@@ -533,7 +507,7 @@ module.exports = [
     price: 10.99,
     category: 'Food & Drink',
     images: [
-      "https://targaryen-store.s3.us-east-2.amazonaws.com/56-BowlOfBrown.jpg"
+      "https://i.ibb.co/WzqHnJw/56-Bowl-Of-Brown.jpg"
     ]
   },
   {
@@ -542,7 +516,7 @@ module.exports = [
     price: 12.99,
     category: 'Food & Drink',
     images: [
-      "https://targaryen-store.s3.us-east-2.amazonaws.com/57-FreyPie.jpg"
+      "https://i.ibb.co/2SDCPqK/57-Frey-Pie.jpg"
     ]
   },
   {
@@ -551,7 +525,7 @@ module.exports = [
     price: 24.99,
     category: 'Food & Drink',
     images: [
-      "https://targaryen-store.s3.us-east-2.amazonaws.com/58-Wine.jpg"
+      "https://i.ibb.co/PQKmw9M/58-Wine.jpg"
     ]
   },
   {
@@ -560,7 +534,7 @@ module.exports = [
     price: 4.99,
     category: 'Apparel',
     images: [
-      "https://targaryen-store.s3.us-east-2.amazonaws.com/59-EunuchBag.jpg"
+      "https://i.ibb.co/tc9k3Zy/59-Eunuch-Bag.jpg"
     ]
   },
   {
@@ -569,7 +543,7 @@ module.exports = [
     price: 9.99,
     category: 'Artifacts',
     images: [
-      "https://targaryen-store.s3.us-east-2.amazonaws.com/60-IronCoinOfTheFacelessMan.jpg"
+      "https://i.ibb.co/WcdWpfR/60-Iron-Coin-Of-The-Faceless-Man.jpg"
     ]
   },
   {
@@ -578,7 +552,7 @@ module.exports = [
     price: 259.99,
     category: 'Artifacts',
     images: [
-      "https://targaryen-store.s3.us-east-2.amazonaws.com/61-MelisandreRubyChoker.jpg"
+      "https://i.ibb.co/10zqrK2/61-Melisandre-Ruby-Choker.jpg"
     ]
   },
   {
@@ -587,7 +561,7 @@ module.exports = [
     price: 909.99,
     category: 'Artifacts',
     images: [
-      "https://targaryen-store.s3.us-east-2.amazonaws.com/62-IronThrone.jpg"
+      "https://i.ibb.co/qFfV12m/62-Iron-Throne.jpg"
     ]
   },
   {
@@ -596,7 +570,7 @@ module.exports = [
     price: 44.99,
     category: 'Artifacts',
     images: [
-      "https://targaryen-store.s3.us-east-2.amazonaws.com/63-HornOfWinter.jpg"
+      "https://i.ibb.co/DYrCSdN/63-Horn-Of-Winter.jpg"
     ]
   },
   {
@@ -605,7 +579,7 @@ module.exports = [
     price: 101.99,
     category: 'Weapons',
     images: [
-      "https://targaryen-store.s3.us-east-2.amazonaws.com/64-DragonGlassDagger.jpg"
+      "https://i.ibb.co/n0Jh9Gn/64-Dragon-Glass-Dagger.jpg"
     ]
   },
   {
@@ -614,7 +588,7 @@ module.exports = [
     price: 165.99,
     category: 'Weapons',
     images: [
-      "https://targaryen-store.s3.us-east-2.amazonaws.com/65-Lightbringer.jpg"
+      "https://i.ibb.co/tXC2V2n/65-Lightbringer.jpg"
     ]
   },
   {
@@ -623,7 +597,7 @@ module.exports = [
     price: 122.99,
     category: 'Home Goods',
     images: [
-      "https://targaryen-store.s3.us-east-2.amazonaws.com/66-SeastoneChair.jpg"
+      "https://i.ibb.co/r2LSc42/66-Seastone-Chair.jpg"
     ]
   },
   {
@@ -632,7 +606,7 @@ module.exports = [
     price: 379.99,
     category: 'Artifacts',
     images: [
-      "https://targaryen-store.s3.us-east-2.amazonaws.com/67-KingJoffreysCrown.jpg"
+      "https://i.ibb.co/7knSWDg/67-King-Joffreys-Crown.jpg"
     ]
   },
   {
@@ -641,7 +615,7 @@ module.exports = [
     price: 1879.99,
     category: 'Home Goods',
     images: [
-      "https://targaryen-store.s3.us-east-2.amazonaws.com/68-MoonDoor.jpg"
+      "https://i.ibb.co/4M4Nj8b/68-Moon-Door.jpg"
     ]
   },
   {
@@ -650,7 +624,7 @@ module.exports = [
     price: 899.99,
     category: 'Weapons',
     images: [
-      "https://targaryen-store.s3.us-east-2.amazonaws.com/69-Longclaw.jpg"
+      "https://i.ibb.co/jr1TbRk/69-Longclaw.jpg"
     ]
   },
   {
@@ -659,7 +633,7 @@ module.exports = [
     price: 429.99,
     category: 'Weapons',
     images: [
-      "https://targaryen-store.s3.us-east-2.amazonaws.com/70-Arakh.jpg"
+      "https://i.ibb.co/SK8y7Cm/70-Arakh.jpg"
     ]
   },
   {
@@ -668,7 +642,7 @@ module.exports = [
     price: 39.99,
     category: 'Weapons',
     images: [
-      "https://targaryen-store.s3.us-east-2.amazonaws.com/71-Blackfyre.jpg"
+      "https://i.ibb.co/T00pCn8/71-Blackfyre.jpg"
     ]
   },
   {
@@ -677,7 +651,7 @@ module.exports = [
     price: 229.99,
     category: 'Weapons',
     images: [
-      "https://targaryen-store.s3.us-east-2.amazonaws.com/72-DarkSister.jpg"
+      "https://i.ibb.co/sPmNPGq/72-Dark-Sister.jpg"
     ]
   },
   {
@@ -686,7 +660,7 @@ module.exports = [
     price: 79.99,
     category: 'Weapons',
     images: [
-      "https://targaryen-store.s3.us-east-2.amazonaws.com/73-ForresterGreatssword.png"
+      "https://i.ibb.co/WF5MmX3/73-Forrester-Greatssword.png"
     ]
   },
   {
@@ -695,7 +669,7 @@ module.exports = [
     price: 129.99,
     category: 'Weapons',
     images: [
-      "https://targaryen-store.s3.us-east-2.amazonaws.com/74-Hearteater.jpg"
+      "https://i.ibb.co/mGWsJ6t/74-Hearteater.jpg"
     ]
   },
   {
@@ -704,7 +678,7 @@ module.exports = [
     price: 89.99,
     category: 'Weapons',
     images: [
-      "https://targaryen-store.s3.us-east-2.amazonaws.com/75-Ice.jpg"
+      "https://i.ibb.co/CQ8fS3G/75-Ice.jpg"
     ]
   },
   {
@@ -713,7 +687,7 @@ module.exports = [
     price: 429.99,
     category: 'Weapons',
     images: [
-      "https://targaryen-store.s3.us-east-2.amazonaws.com/76-JoffreysCrossbow.jpg"
+      "https://i.ibb.co/KbgHgbj/76-Joffreys-Crossbow.jpg"
     ]
   },
   {
@@ -722,7 +696,7 @@ module.exports = [
     price: 29.99,
     category: 'Weapons',
     images: [
-      "https://targaryen-store.s3.us-east-2.amazonaws.com/77-Poison.jpg"
+      "https://i.ibb.co/Zd0PDLG/77-Poison.jpg"
     ]
   },
   {
@@ -731,7 +705,7 @@ module.exports = [
     price: 19.99,
     category: 'Weapons',
     images: [
-      "https://targaryen-store.s3.us-east-2.amazonaws.com/78-Scorpion.jpg"
+      "https://i.ibb.co/6gZBf3S/78-Scorpion.jpg"
     ]
   },
   {
@@ -740,7 +714,7 @@ module.exports = [
     price: 69.99,
     category: 'Weapons',
     images: [
-      "https://targaryen-store.s3.us-east-2.amazonaws.com/79-TwoBrothers.png"
+      "https://i.ibb.co/CHNnpqj/79-Two-Brothers.png"
     ]
   },
   {
@@ -749,7 +723,7 @@ module.exports = [
     price: 90.99,
     category: 'Weapons',
     images: [
-      "https://targaryen-store.s3.us-east-2.amazonaws.com/80-ValyrianSteelDagger.png"
+      "https://i.ibb.co/tPDRWYg/80-Valyrian-Steel-Dagger.png"
     ]
   },
   {
@@ -758,7 +732,7 @@ module.exports = [
     price: 88.99,
     category: 'Weapons',
     images: [
-      "https://targaryen-store.s3.us-east-2.amazonaws.com/81-WhiteWalkerIceBlade.jpg"
+      "https://i.ibb.co/59SY15H/81-White-Walker-Ice-Blade.jpg"
     ]
   },
   {
@@ -767,7 +741,7 @@ module.exports = [
     price: 89.99,
     category: 'Weapons',
     images: [
-      "https://targaryen-store.s3.us-east-2.amazonaws.com/82-Brightroar.png"
+      "https://i.ibb.co/qnfjfKT/82-Brightroar.png"
     ]
   },
   {
@@ -776,7 +750,7 @@ module.exports = [
     price: 67.99,
     category: 'Weapons',
     images: [
-      "https://targaryen-store.s3.us-east-2.amazonaws.com/83-Dawn.png"
+      "https://i.ibb.co/4fLX2T2/83-Dawn.png"
     ]
   },
   {
@@ -785,7 +759,7 @@ module.exports = [
     price: 44.99,
     category: 'Weapons',
     images: [
-      "https://targaryen-store.s3.us-east-2.amazonaws.com/84-Heartsbane.png"
+      "https://i.ibb.co/12L7T77/84-Heartsbane.png"
     ]
   },
   {
@@ -794,7 +768,7 @@ module.exports = [
     price: 19.99,
     category: 'Weapons',
     images: [
-      "https://targaryen-store.s3.us-east-2.amazonaws.com/85-WidowsWail.png"
+      "https://i.ibb.co/82xRw8r/85-Widows-Wail.png"
     ]
   },
   {
@@ -803,187 +777,97 @@ module.exports = [
     price: 49.99,
     category: 'Weapons',
     images: [
-      "https://targaryen-store.s3.us-east-2.amazonaws.com/86-Wildfire.jpg"
-    ]
-  },
-  {
-    id: 87,
-    name: 'God Save The Queen',
-    price: 399.99,
-    category: 'Artwork',
-    images: [
-      "https://targaryen-store.s3.us-east-2.amazonaws.com/87-GodSaveTheQueen.jpg"
-    ]
-  },
-  {
-    id: 88,
-    name: 'A Peasant Arguing',
-    price: 379.99,
-    category: 'Artwork',
-    images: [
-      "https://targaryen-store.s3.us-east-2.amazonaws.com/88-PeasantArguing.jpg"
-    ]
-  },
-  {
-    id: 89,
-    name: 'Cows In A Pasture',
-    price: 179.99,
-    category: 'Artwork',
-    images: [
-      "https://targaryen-store.s3.us-east-2.amazonaws.com/89-CowsInAPasture.jpg"
+      "https://i.ibb.co/KbmrkdC/86-Wildfire.jpg"
     ]
   },
   {
     id: 90,
-    name: 'Hanging In The Gallows',
-    price: 429.99,
-    category: 'Artwork',
-    images: [
-      "https://targaryen-store.s3.us-east-2.amazonaws.com/90-Gallows.jpg"
-    ]
-  },
-  {
-    id: 91,
-    name: 'The Gambler',
-    price: 349.99,
-    category: 'Artwork',
-    images: [
-      "https://targaryen-store.s3.us-east-2.amazonaws.com/91-Gambler.jpg"
-    ]
-  },
-  {
-    id: 92,
-    name: 'The Battle',
-    price: 249.99,
-    category: 'Artwork',
-    images: [
-      "https://targaryen-store.s3.us-east-2.amazonaws.com/92-TheBattle.jpg"
-    ]
-  },
-  {
-    id: 93,
-    name: 'Outhouse',
-    price: 99.99,
-    category: 'Artwork',
-    images: [
-      "https://targaryen-store.s3.us-east-2.amazonaws.com/93-Outhouse.jpg"
-    ]
-  },
-  {
-    id: 94,
-    name: 'The Jungle',
-    price: 129.99,
-    category: 'Artwork',
-    images: [
-      "https://targaryen-store.s3.us-east-2.amazonaws.com/94-Jungle.jpg"
-    ]
-  },
-  {
-    id: 95,
     name: 'Cathedral',
     price: 56.99,
     category: 'Artwork',
     images: [
-      "https://targaryen-store.s3.us-east-2.amazonaws.com/95-Cathedral.jpg"
+      "https://i.ibb.co/6ghqnZd/95-Cathedral.jpg"
     ]
   },
   {
-    id: 96,
-    name: 'Village on Fire',
-    price: 45.99,
-    category: 'Artwork',
-    images: [
-      "https://targaryen-store.s3.us-east-2.amazonaws.com/96-VillageOnFire.jpg"
-    ]
-  },
-  {
-    id: 97,
-    name: 'Monk',
-    price: 110.99,
-    category: 'Artwork',
-    images: [
-      "https://targaryen-store.s3.us-east-2.amazonaws.com/97-Monk.jpg"
-    ]
-  },
-  {
-    id: 98,
+    id: 91,
     name: 'Knight In Shining Armor',
     price: 76.99,
     category: 'Artwork',
     images: [
-      "https://targaryen-store.s3.us-east-2.amazonaws.com/98-KnightInShiningArmor.jpg"
+      "https://i.ibb.co/w4qYJB4/98-Knight-In-Shining-Armor.jpg"
     ]
   },
   {
-    id: 99,
+    id: 92,
     name: 'The Farm',
     price: 111.99,
     category: 'Artwork',
     images: [
-      "https://targaryen-store.s3.us-east-2.amazonaws.com/99-Farm.jpg"
+      "https://i.ibb.co/NCdgTyx/99-Farm.jpg"
     ]
   },
   {
-    id: 100,
+    id: 93,
     name: 'The Castle',
     price: 98.99,
     category: 'Artwork',
     images: [
-      "https://targaryen-store.s3.us-east-2.amazonaws.com/100-Castle.jpg"
+      "https://i.ibb.co/gFtLQHm/100-Castle.jpg"
     ]
   },
   {
-    id: 101,
+    id: 88,
     name: 'Winter Is Coming',
     price: 44.99,
     category: 'Artwork',
     images: [
-      "https://targaryen-store.s3.us-east-2.amazonaws.com/101-WinterIsComing.jpg"
+      "https://i.ibb.co/2SQVPN6/101-Winter-Is-Coming.jpg"
     ]
   },
   {
-    id: 102,
+    id: 87,
     name: 'Chick Hanging With Dragon',
     price: 78.99,
     category: 'Artwork',
     images: [
-      "https://targaryen-store.s3.us-east-2.amazonaws.com/102-ChickWithDragon.jpg"
+      "https://i.ibb.co/JnYypjm/102-Chick-With-Dragon.jpg"
     ]
   },
   {
-    id: 103,
+    id: 42,
     name: 'The Throne',
     price: 69.99,
     category: 'Artwork',
     images: [
-      "https://targaryen-store.s3.us-east-2.amazonaws.com/103-TheThrone.jpg"
+      "https://i.ibb.co/0BK1Cyx/103-The-Throne.jpg"
     ]
   },
   {
-    id: 104,
+    id: 37,
     name: 'One Versus Many',
     price: 99.99,
     category: 'Artwork',
     images: [
-      "https://targaryen-store.s3.us-east-2.amazonaws.com/104-OneVersusMany.jpg"
+      "https://i.ibb.co/fxFDB5T/104-One-Versus-Many.jpg"
     ]
   },
   {
-    id: 105,
+    id: 26,
     name: 'Angry Sea At Night',
     price: 125.99,
     category: 'Artwork',
     images: [
-      "https://targaryen-store.s3.us-east-2.amazonaws.com/105-AngrySeaAtNight.jpg"
+      "https://i.ibb.co/VtsgpGb/105-Angry-Sea-At-Night.jpg"
     ]
   },
   {
-    id: 106,
+    id: 89,
     name: "Dragon's Breach",
     price: 104.99,
     category: 'Artwork',
     images: [
-      "https://targaryen-store.s3.us-east-2.amazonaws.com/106-DragonsBreach.jpg"
+      "https://i.ibb.co/kcJFSdB/106-Dragons-Breach.jpg"
     ]
   }
 ]

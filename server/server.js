@@ -2,7 +2,7 @@ const express = require('express');
 const app = express();
 const cors = require('cors');
 const path = require('path');
-const PORT = 8008;
+const PORT = process.env.PORT || 8008;
 const db = require('./database/queries');
 
 app.use(express.static(path.join(__dirname, '../client/dist')));

@@ -1,0 +1,1 @@
+web: npx webpack --config webpack.config.js && node server/server.js

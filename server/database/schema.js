@@ -1,6 +1,6 @@
 const mongoose = require('mongoose');
-const db = require('./config.js')
-mongoose.connect(db.uri, {useNewUrlParser: true})
+const db = process.env.DATABASE_URL || require('./config.js').uri;
+mongoose.connect(db, {useNewUrlParser: true})
   .then(() => {
     console.log('Database connection successful')
   })
