@@ -44,7 +44,7 @@ class App extends Component {
   }
 
   getMain(id) {
-    Axios.get(`http://item-main-env.eba-sfsa5uyc.us-east-2.elasticbeanstalk.com/${id}`)
+    Axios.get(`https://targaryen-main.herokuapp.com/${id}`)
       .then(item => {
         const i = item.data[0];
         this.setState({
